@@ -1,7 +1,5 @@
-<h1>Hi there ~ 👋</h1>
+# Hi there ~ 👋
 
-<h3>I'm Wanwan 💖</h3>
+### I'm Wanwan 💖
 
-<div>
-    <img src="./banner1.png" alt="Kato Megumi" width="auto">
-</div>
+![Kato Megumi](./banner1.png)
