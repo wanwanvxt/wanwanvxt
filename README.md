@@ -1,7 +1,8 @@
-<h1>Hi there ~ 👋</h1>
+<h2 align="center">
+  Hey there, I'm Vũ Xuân Trường.
+</h2>
 
-<h3>I'm Wanwan 💖</h3>
-
-<div>
-    <img src="./banner1.png" alt="Kato Megumi" width="auto">
-</div>
+<blockquote>See my projects here 👇🏼:</blockquote>
+<a href="https://wanwan.id.vn">
+	<img src="https://wanwan.id.vn/img/wanwan.png" width="300"/>
+</a>
