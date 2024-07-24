@@ -1,2 +1,2 @@
-<h1 align="center">Hi!</h1>
-<p align="center">It's nice to have you visit me here.</p>
+<h2 align="center">Hi, i'm Vũ Xuân Trường!</h2>
+<p align="center">Welcome to my Github profile.</p>
